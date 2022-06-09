@@ -1,0 +1,1 @@
+# BQA-Partner-Protal-API
